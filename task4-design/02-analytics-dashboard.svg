@@ -1,0 +1,108 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="soft" x="0" y="0" width="2000" height="2000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="10" stdDeviation="16" flood-color="#05203C" flood-opacity="0.10"/>
+    </filter>
+  </defs>
+  <rect width="1440" height="1024" fill="#F5F9FE"/>
+  <rect x="40" y="40" width="304" height="944" rx="32" fill="#05203C"/>
+  <text x="88" y="102" fill="white" font-size="28" font-family="Arial, sans-serif" font-weight="700">Skyscanner Ads</text>
+  <text x="88" y="156" fill="#A1EEFF" font-size="18" font-family="Arial, sans-serif">Formats</text>
+
+  <g>
+    <rect x="72" y="186" width="240" height="110" rx="24" fill="#0B2B4C"/>
+    <rect x="92" y="208" width="54" height="54" rx="16" fill="#D9F8FF"/>
+    <text x="164" y="232" fill="white" font-size="24" font-family="Arial, sans-serif" font-weight="700">Text Ad</text>
+    <text x="164" y="264" fill="#B9CDE4" font-size="18" font-family="Arial, sans-serif">14 active campaigns</text>
+    <rect x="92" y="272" width="92" height="24" rx="12" fill="#D4FFF2"/>
+    <text x="113" y="289" fill="#0A6F76" font-size="14" font-family="Arial, sans-serif" font-weight="700">Stable CTR</text>
+  </g>
+
+  <g>
+    <rect x="72" y="316" width="240" height="110" rx="24" fill="#0062E3"/>
+    <rect x="92" y="338" width="54" height="54" rx="16" fill="white"/>
+    <text x="164" y="362" fill="white" font-size="24" font-family="Arial, sans-serif" font-weight="700">Image and Text</text>
+    <text x="164" y="394" fill="#D9F8FF" font-size="18" font-family="Arial, sans-serif">22 active campaigns</text>
+    <rect x="92" y="402" width="104" height="24" rx="12" fill="#FFF1E8"/>
+    <text x="111" y="419" fill="#A44D36" font-size="14" font-family="Arial, sans-serif" font-weight="700">Best performer</text>
+  </g>
+
+  <g>
+    <rect x="72" y="446" width="240" height="110" rx="24" fill="#0B2B4C"/>
+    <rect x="92" y="468" width="54" height="54" rx="16" fill="#FFF4EF"/>
+    <text x="164" y="492" fill="white" font-size="24" font-family="Arial, sans-serif" font-weight="700">Video Ad</text>
+    <text x="164" y="524" fill="#B9CDE4" font-size="18" font-family="Arial, sans-serif">8 active campaigns</text>
+    <rect x="92" y="532" width="96" height="24" rx="12" fill="#E9F7FF"/>
+    <text x="117" y="549" fill="#0062E3" font-size="14" font-family="Arial, sans-serif" font-weight="700">Scaling</text>
+  </g>
+
+  <text x="392" y="98" fill="#05203C" font-size="42" font-family="Arial, sans-serif" font-weight="700">Advertising analytics overview</text>
+  <text x="392" y="136" fill="#5D6E80" font-size="22" font-family="Arial, sans-serif">Review ad performance by format and identify what deserves more budget.</text>
+
+  <g filter="url(#soft)">
+    <rect x="392" y="176" width="304" height="124" rx="24" fill="white"/>
+    <rect x="716" y="176" width="304" height="124" rx="24" fill="white"/>
+    <rect x="1040" y="176" width="304" height="124" rx="24" fill="white"/>
+  </g>
+  <text x="428" y="222" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Impressions</text>
+  <text x="428" y="274" fill="#05203C" font-size="42" font-family="Arial, sans-serif" font-weight="700">8.4M</text>
+  <text x="580" y="274" fill="#0FA1A9" font-size="18" font-family="Arial, sans-serif" font-weight="700">+12%</text>
+
+  <text x="752" y="222" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Average CTR</text>
+  <text x="752" y="274" fill="#05203C" font-size="42" font-family="Arial, sans-serif" font-weight="700">4.8%</text>
+  <text x="885" y="274" fill="#0FA1A9" font-size="18" font-family="Arial, sans-serif" font-weight="700">+0.7 pts</text>
+
+  <text x="1076" y="222" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Monthly Spend</text>
+  <text x="1076" y="274" fill="#05203C" font-size="42" font-family="Arial, sans-serif" font-weight="700">$124k</text>
+  <text x="1222" y="274" fill="#FF7B59" font-size="18" font-family="Arial, sans-serif" font-weight="700">+9%</text>
+
+  <g filter="url(#soft)">
+    <rect x="392" y="336" width="580" height="300" rx="28" fill="white"/>
+    <rect x="996" y="336" width="348" height="300" rx="28" fill="white"/>
+    <rect x="392" y="664" width="952" height="248" rx="28" fill="white"/>
+  </g>
+
+  <text x="428" y="384" fill="#05203C" font-size="28" font-family="Arial, sans-serif" font-weight="700">Spend by ad format</text>
+  <line x1="428" y1="570" x2="936" y2="570" stroke="#DCE6F0" stroke-width="2"/>
+  <rect x="468" y="484" width="92" height="86" rx="14" fill="#05203C"/>
+  <rect x="616" y="432" width="92" height="138" rx="14" fill="#0062E3"/>
+  <rect x="764" y="510" width="92" height="60" rx="14" fill="#0FA1A9"/>
+  <text x="485" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Text</text>
+  <text x="592" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Image + Text</text>
+  <text x="781" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Video</text>
+
+  <text x="1032" y="384" fill="#05203C" font-size="28" font-family="Arial, sans-serif" font-weight="700">CTR trend</text>
+  <polyline points="1030,548 1070,522 1110,532 1150,500 1190,472 1230,484 1270,434" fill="none" stroke="#0062E3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="1030,560 1070,556 1110,544 1150,538 1190,530 1230,522 1270,516" fill="none" stroke="#0FA1A9" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="1030" y1="570" x2="1306" y2="570" stroke="#DCE6F0" stroke-width="2"/>
+  <text x="1028" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Week 1</text>
+  <text x="1110" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Week 2</text>
+  <text x="1198" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Week 3</text>
+  <text x="1282" y="600" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif">Week 4</text>
+  <circle cx="1270" cy="434" r="7" fill="#0062E3"/>
+  <circle cx="1270" cy="516" r="7" fill="#0FA1A9"/>
+
+  <text x="428" y="712" fill="#05203C" font-size="28" font-family="Arial, sans-serif" font-weight="700">Top performing campaigns</text>
+  <line x1="428" y1="748" x2="1306" y2="748" stroke="#E0E9F2" stroke-width="2"/>
+  <text x="428" y="784" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif" font-weight="700">Campaign</text>
+  <text x="760" y="784" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif" font-weight="700">Format</text>
+  <text x="958" y="784" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif" font-weight="700">CTR</text>
+  <text x="1096" y="784" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif" font-weight="700">Spend</text>
+  <text x="1228" y="784" fill="#5D6E80" font-size="18" font-family="Arial, sans-serif" font-weight="700">Status</text>
+
+  <line x1="428" y1="808" x2="1306" y2="808" stroke="#F0F4F8" stroke-width="2"/>
+  <line x1="428" y1="860" x2="1306" y2="860" stroke="#F0F4F8" stroke-width="2"/>
+  <text x="428" y="842" fill="#05203C" font-size="20" font-family="Arial, sans-serif">Summer city breaks</text>
+  <text x="760" y="842" fill="#05203C" font-size="20" font-family="Arial, sans-serif">Image + Text</text>
+  <text x="958" y="842" fill="#05203C" font-size="20" font-family="Arial, sans-serif">6.1%</text>
+  <text x="1096" y="842" fill="#05203C" font-size="20" font-family="Arial, sans-serif">$28k</text>
+  <rect x="1218" y="817" width="88" height="28" rx="14" fill="#D4FFF2"/>
+  <text x="1244" y="836" fill="#0A6F76" font-size="14" font-family="Arial, sans-serif" font-weight="700">Live</text>
+
+  <text x="428" y="894" fill="#05203C" font-size="20" font-family="Arial, sans-serif">Weekend fares push</text>
+  <text x="760" y="894" fill="#05203C" font-size="20" font-family="Arial, sans-serif">Text</text>
+  <text x="958" y="894" fill="#05203C" font-size="20" font-family="Arial, sans-serif">4.9%</text>
+  <text x="1096" y="894" fill="#05203C" font-size="20" font-family="Arial, sans-serif">$18k</text>
+  <rect x="1218" y="869" width="88" height="28" rx="14" fill="#E9F7FF"/>
+  <text x="1238" y="888" fill="#0062E3" font-size="14" font-family="Arial, sans-serif" font-weight="700">Scaled</text>
+</svg>
